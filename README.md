@@ -1,4 +1,4 @@
-# Tableau: Cit Bike Data Analytics
+# Tableau: Citi Bike Data Analytics
 
 ## Tableau Public Dashboards and Story
 
