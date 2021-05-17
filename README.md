@@ -4,17 +4,24 @@
 
 https://public.tableau.com/profile/mathew.miller#!/vizhome/TableauChallenge_16211468039140/CitiBikeAnalysisStory
 
-Congratulations on your new job! As the new lead analyst for the New York Citi Bike Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
-Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
-Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes.
+This project required that I take on the role of an entry level data analyst for the New York Citi Bike progam.  My resposability was to generate a regular report for city officials that looked at user data to see where imporvements in the program could be made. I utilized Citi Bikes infrastructure for collecting data and took Citi Bike user data from 2014. I wanted to look at the difference between Summer and Winter seasons so I used the months of January, February, March, July, August and September in my report.  There are currently no dashboards or sophisticated reporting processes and I have to generate some starter reports. Since my report is going to be read by city officials, public administrators and heads of New York City departments, I have to make my reports easy to read. 
 
 ### Task 1: Aggregate Website Data
-Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
-Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.
+For the first task in this project I had to collect sets of data from the Citi Bike website.  The data was not guarenteed to be consitently formatted or the size I needed so I had to do some restructuring of the data to work with it in Tableau.  The steps I took to aggregate the website data to a dataset that I could use in Tableau are as follows.
+* Download datasets from Citi Bike website
+* Review all datasets header names and colomn arrangements to ensure they were identical
+* Reduce size of each months dataset to 20,000 records for bandwidth issues
+* Create Jupyter Notebook to import and combine all datasets into one document and export file
+
+<p align="center">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Excel-KickstarterAnalysis/blob/main/MDScreenCaptures/BonusCapture.JPG?raw=true">
+</p>
+<p align="center">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Excel-KickstarterAnalysis/blob/main/MDScreenCaptures/BonusCapture.JPG?raw=true">
+</p>
 
 ### Task 2: Create Visualizations
-The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
+Once I had the dataset created The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
 * How many trips have been recorded total during the chosen period?
 * By what percentage has total ridership grown?
 * How has the proportion of short-term customers and annual subscribers changed?
