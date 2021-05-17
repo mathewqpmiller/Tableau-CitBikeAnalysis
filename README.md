@@ -2,8 +2,6 @@
 
 ## Tableau Public Dashboards and Story
 
-https://public.tableau.com/profile/mathew.miller#!/vizhome/TableauChallenge_16211468039140/CitiBikeAnalysisStory
-
 This project required that I take on the role of an entry level data analyst for the New York Citi Bike progam.  My resposability was to generate a regular report for city officials that looked at user data to see where imporvements in the program could be made. I utilized Citi Bikes infrastructure for collecting data and took Citi Bike user data from 2014. I wanted to look at the difference between Summer and Winter seasons so I used the months of January, February, March, July, August and September in my report.  There are currently no dashboards or sophisticated reporting processes and I have to generate some starter reports. Since my report is going to be read by city officials, public administrators and heads of New York City departments, I have to make my reports easy to read. 
 
 ### Task 1: Aggregate Website Data
@@ -45,7 +43,14 @@ After completing that, I had to create at least two dashboards with a minimum of
 </p>
 
 ### Task 3: Create Dashboards
-Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena. The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring.
+With the visualizations completed, I now had to create a set of Dashboards that could be used in the final Tableau Public report. With the aid of the visualizations, I needed to indentify some phenomena for each Dashboard. In addition to having a visual representation of the phenomena, I also needed to give a written explanation of what was occuring. The steps that I took to create the Dashboards are as follows.
+* Create unique headers
+* Drag and drop visualizations onto the dashboard
+* Arrange visualizations to be coherent, easy to read and visually appealing
+
+<p align="center">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/VisualizationCreation.JPG?raw=true">
+</p>
 
 ### Task 4: Create Static or Dynamic Map
 City officials would also like to see one of the following visualizations:
@@ -56,6 +61,8 @@ City officials would also like to see one of the following visualizations:
 ### Task 5: Create Story
 Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing.
+
+https://public.tableau.com/profile/mathew.miller#!/vizhome/TableauChallenge_16211468039140/CitiBikeAnalysisStory
 
 ### Submission
 Your final submission should include a link to your Tableau Public workbook that includes:
