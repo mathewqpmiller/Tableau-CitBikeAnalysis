@@ -5698,7 +5698,7 @@
       <grid grid-overlay-mode='on' />
       <simple-id uuid='{07CF58F2-1F03-4CD3-B537-E253218C110F}' />
     </window>
-    <window class='dashboard' maximized='true' name='TopTenStationsDashboard'>
+    <window class='dashboard' name='TopTenStationsDashboard'>
       <viewpoints>
         <viewpoint name='TopTenEndStations' />
         <viewpoint name='TopTenEndStationsMap'>
@@ -5742,7 +5742,7 @@
           <default-map-tool-selection tool='1' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='10' />
       <grid grid-overlay-mode='on' />
       <simple-id uuid='{398F6C35-0192-4B01-82EC-81088CD932B3}' />
     </window>
@@ -5766,7 +5766,7 @@
       <grid grid-overlay-mode='on' />
       <simple-id uuid='{5443D37E-EC35-4F61-9A27-9EA9B988922A}' />
     </window>
-    <window class='dashboard' name='CitiBikeAnalysisStory'>
+    <window class='dashboard' maximized='true' name='CitiBikeAnalysisStory'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{F762620E-3D19-40FB-AB55-12F5E4762651}' />

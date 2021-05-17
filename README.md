@@ -53,47 +53,51 @@ With the visualizations completed, I now had to create a set of Dashboards that 
 </p>
 
 ### Task 4: Create Static or Dynamic Map
-City officials would also like to see one of the following visualizations:
-* Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
-* Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
-* The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
+As part of the report, city officials have request that there be a static or dynamic map as part of the project. For the project I choose to do a static map that showed all of the bike stations with a visual representation of the most to least popular start and end locations. As part of the requirements, they asked that zip code information be overlaid on top of the map. I choose to make three static maps for this portion of the project. One showed all of the start locations data, the second showed all of the end locations data and the third showed all of the seasonal data at the start locations. There also needed to be a written explanation of what trend was observed in this visualization. The steps that I took to create these visualizations are as follows.
+* Create a new worksheet
+* Add start/end longitude and latitude information
+* Create number of trips count marks and have them represent the size of mark based on use frequency
+* Add start station, end station or seasonal table to marks section having them represent the color of the marks
 
 <p align="center">
     <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/DashboardCreation.JPG?raw=true">
 </p>
+
 ### Task 5: Create Story
-Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
-This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing.
+At this point all of my visualizations, maps and dashboards have been created. Now I had to put all of these together into a story that could be published to Tableau Public. This is what would be presented to the officials so like all other aspects of the project, it had to be easy to read, logical and appealing. All written observations needed to be backed up by data and the report needed to be professional. The steps I took to complete this task are as follows.
+* Create a new story
+* Create in introduction page and summary page
+* Drag created dashboards into story in sequential order of data observed
+* Type up summary and add links to reference material and README.md file
 
-https://public.tableau.com/profile/mathew.miller#!/vizhome/TableauChallenge_16211468039140/CitiBikeAnalysisStory
+<p align="center">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/DashboardCreation.JPG?raw=true">
+</p>
 
-### Submission
-Your final submission should include a link to your Tableau Public workbook that includes:
+### Task 6: Publish Report
+Now that the report was finished I had to publish it to Tableau Public and provide a link to the city officials so that they could review it. The report had to include a minimum of
+* 4-10 total visualizations that supported observed phenomenon
+* Two Dashboards
+* One city official map
+* One story
+* A text or README.md file with the analysis of the phenomenons uncovered
+* Published report to Tableau Public as a .twbx file
 
-* 4-10 Total "Phenomenon" Visualizations
-* 2 Dashboards
-* 1 City Official Map
-* 1 Story
-* A text or markdown file with your analysis on the phenomenons you uncovered from the data.
-* Share your work as a .twbx file to Tableau Public. Create an account if you do not have one already.
-
-Once you have created an account and published your work to Tableau Public, go to the visualization in Tableau Public and find the Download button at the bottom right hand corner. Please download the Tableau Public file to your computer and submit it.
+Link: https://public.tableau.com/profile/mathew.miller#!/vizhome/TableauChallenge_16211468039140/CitiBikeAnalysisStory
 
 ### Assessment
-Your final product will be assessed on the following metrics:
+The Citi Bike regular report will be assessed on the following metrics:
 * Analytic Rigor
 * Readability
 * Visual Attraction
 * Use any and all tools needed
-* Analyze datasets thuroughly
+* Analyze datasets thoroughly
 * Use appropriate time-sets
 * Build visualizations with small datasets
-* Have clear answers and don't cram them everything in
+* Have clear answers and don't cram everything in
 * Use colors and themes that match the companies aesthetic tones
 * Pay attention to labels
 * Keep an eye out for false data
-* Consider adding additional supporting information
-* Explore Tableau
 
 <p align="center">
 UNIVERSITY OF OREGON: Data Analytics Boot Camp - Repository for project 16(Tableau Challenge)
