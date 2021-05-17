@@ -21,24 +21,28 @@ For the first task in this project I had to collect sets of data from the Citi B
 </p>
 
 ### Task 2: Create Visualizations
-Once I had the dataset created The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
-* How many trips have been recorded total during the chosen period?
-* By what percentage has total ridership grown?
-* How has the proportion of short-term customers and annual subscribers changed?
-* What are the peak hours in which bikes are used during summer months?
-* What are the peak hours in which bikes are used during winter months?
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-* Today, what is the gender breakdown of active participants (Male v. Female)?
-* How effective has gender outreach been in increasing female ridership over the timespan?
-* How does the average trip duration change by age?
-* What is the average distance in miles that a bike is ridden?
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-* How variable is the utilization by bike ID?
+Once I had the dataset created I loaded it into Tableau to build some visualizations. Befor I built any visualizations I had to create some additional tables from the dataset to include such thing as trip time in minutes, number of trips, gender type etc. I used such things as calculations and groupings to accomplish these tasks. 
+After completing that, I had to create at least two dashboards with a minimum of two visualizations for each Dashboard so I had to make at least four visualizations in total for this project. Although I did not end up using all of my visualizations in the report, I did end up creating 20 visualizations as part of this project. The following are the questions that I answered in the visualization creation portion of this report.
+* What were the total trips taken
+* What were the total trips taken by demographic age group
+* What were the total trips taken by gender group
+* How many of each age demographic was included in each gender group
+* Did guests or subscribers use the service more
+* What was the average trip durration
+* What was the average trip durration by demographic age group
+* Station usage by gender group
+* Station usage by age demographic group
+* What is the total volume usage of all start station locations
+* What is the total volume usage of all end station locations
+* What is the total volume usage by sesaon of start station locations by season
+* What are the top ten start stations: named and mapped
+* What are the top ten end stations: named and mapped
+* What are the bottom ten start stations: named and mapped
+* What are the bottom ten end stations: named and mapped
 
-
+<p align="center">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Excel-KickstarterAnalysis/blob/main/MDScreenCaptures/BonusCapture.JPG?raw=true">
+</p>
 
 ### Task 3: Create Dashboards
 Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena. The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring.
