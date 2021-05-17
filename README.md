@@ -14,10 +14,10 @@ For the first task in this project I had to collect sets of data from the Citi B
 * Create Jupyter Notebook to import and combine all datasets into one document and export file
 
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Excel-KickstarterAnalysis/blob/main/MDScreenCaptures/BonusCapture.JPG?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/AggregateData1.JPG?raw=true">
 </p>
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Excel-KickstarterAnalysis/blob/main/MDScreenCaptures/BonusCapture.JPG?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/AggregateData2.JPG?raw=true">
 </p>
 
 ### Task 2: Create Visualizations
@@ -41,7 +41,7 @@ After completing that, I had to create at least two dashboards with a minimum of
 * What are the bottom ten end stations: named and mapped
 
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Excel-KickstarterAnalysis/blob/main/MDScreenCaptures/BonusCapture.JPG?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/VisualizationCreation.JPG?raw=true">
 </p>
 
 ### Task 3: Create Dashboards
