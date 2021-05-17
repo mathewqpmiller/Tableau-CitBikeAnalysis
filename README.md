@@ -49,7 +49,7 @@ With the visualizations completed, I now had to create a set of Dashboards that 
 * Arrange visualizations to be coherent, easy to read and visually appealing
 
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/VisualizationCreation.JPG?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/DashboardCreation.JPG?raw=true">
 </p>
 
 ### Task 4: Create Static or Dynamic Map
@@ -58,6 +58,9 @@ City officials would also like to see one of the following visualizations:
 * Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
 
+<p align="center">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/DashboardCreation.JPG?raw=true">
+</p>
 ### Task 5: Create Story
 Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing.
