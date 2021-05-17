@@ -60,7 +60,7 @@ As part of the report, city officials have request that there be a static or dyn
 * Add start station, end station or seasonal table to marks section having them represent the color of the marks
 
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/DashboardCreation.JPG?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/StaticMap.JPG?raw=true">
 </p>
 
 ### Task 5: Create Story
@@ -71,7 +71,7 @@ At this point all of my visualizations, maps and dashboards have been created. N
 * Type up summary and add links to reference material and README.md file
 
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/DashboardCreation.JPG?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/StoryCreation.JPG?raw=true">
 </p>
 
 ### Task 6: Publish Report
